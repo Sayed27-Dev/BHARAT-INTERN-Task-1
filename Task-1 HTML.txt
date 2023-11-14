@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Your Name - Portfolio</title>
+ <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+ <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+ </header>
+
+ <section id="about">
+    <h1>About Me</h1>
+    <p>Hello! My name is Sayed Rahaman. I am a Student with a strong passion for Web Development. I have experience in Java Programming, and  I am always eager to learn new things and expand my skillset. Feel free to check out my projects and skills!</p>
+ </section>
+
+ <section id="skills">
+    <h1>Skills</h1>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Java</li>
+      <li>Python</li>
+    </ul>
+ </section>
+
+ <section id="projects">
+    <h1>Projects</h1>
+    <div class="project">
+      <h2>Automated Plant Watering System</h2>
+    </div>
+    <div class="project">
+      <h2>Data Visualization Dashboard</h2>
+    </div>
+ </section>
+
+ <section id="contact">
+    <h1>Contact</h1>
+    <p>If you'd like to get in touch, feel free to send me an email at sayedrahaman240@gmail.com.</p>
+ </section>
+
+ <footer>
+    <p>&copy; 2023 Sayed. All rights reserved.</p>
+ </footer>
+</body>
+</html>
